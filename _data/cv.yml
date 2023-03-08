@@ -34,16 +34,33 @@
       year: 2019 - 2021
       description:
         - Private alternative school based on NonViolent Communication (NVC)
+
+    - title: Career Break
+      year: 2003 - 2019
+      description: 
+        - Parental leave to care for children
+        - 6 years of expatriation due to my husband's job (USA and UK)
+        - Continuing Education in traditionnal chineese medecine
+        - self-employed tuina practitioner
         
     - title: Sales representative
       institution: Olin Lanctuit - Groupe Bouygues
       year: 1998 - 2003
       description:
+        - Building and maintaining strong relationships with clients
+        - Preparing proposals in response to client requirements
+        - Negotiating contracts and agreements with clients
+        - Collaborating with internal teams
+        - Identifying potential business opportunities
 
     - title: Works supervising engineer 
       institution: Dalla Vera - Groupe Bouygues
       year: 1996 - 1998
-
+      description:
+        - Creating a timeline for the project 
+        - Keeping track of expenses 
+        - Supervising the work of construction workers
+        - Ensuring that all work is done safely and respect quality standards
 
 
 
