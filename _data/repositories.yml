@@ -1,12 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
+github_users: 
+  - mariealeth
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mariealeth/P7_docker_compose 
+  - mariealeth/Products_classification
+  - mariealeth/Customer-segmentation
+  - mariealeth/Energy_consumption_prediction 
