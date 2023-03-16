@@ -2,7 +2,10 @@ github_users:
   - mariealeth
 
 github_repos:
-  - mariealeth/P7_docker_compose 
+  - mariealeth/Credit_default_application 
   - mariealeth/Products_classification
   - mariealeth/Customer-segmentation
   - mariealeth/Energy_consumption_prediction 
+
+github_selected:
+  - mariealeth/Credit_default_application 
